@@ -1,0 +1,10 @@
+
+
+#submit {
+    -fx-background-image: url("Images/rsz_submit.png");
+    }
+
+#lejbl{
+    -fx-border-color: black;
+    -fx-background-color: white;
+}
